@@ -1,0 +1,22 @@
+body {
+  font-family: "Trebuchet MS";
+  background-color: #A4C2F4;
+}
+
+.container{
+  background-color: white;
+}
+
+#summary{
+  font-style: italic;
+}
+
+.nav{
+  background-color: lightgray;
+  padding: 10px;
+  font-size: 20px;
+}
+
+h1{
+  padding: 10px;
+}
